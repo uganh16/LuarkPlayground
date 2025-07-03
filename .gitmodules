@@ -1,0 +1,3 @@
+[submodule "Plugins/Luark"]
+	path = Plugins/Luark
+	url = https://github.com/uganh16/Luark.git
